@@ -1,4 +1,4 @@
-Documento README.md: Justificativa das validações aplicadas, explicação das exceções tratadas, exemplos de entrada (arquivo lido) e saída (relatório gerado).
+# Documento README.md: Justificativa das validações aplicadas, explicação das exceções tratadas, exemplos de entrada (arquivo lido) e saída (relatório gerado).
 
 # Sistema de Analise e Higienizacao de Dados em Python
 
