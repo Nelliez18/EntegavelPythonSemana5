@@ -15,7 +15,7 @@ Este projeto consiste em um sistema automatizado para leitura, tratamento e higi
 
 ## Justificativa das Validacoes (Expressoes Regulares)
 
-Para garantir que os dados estejam em conformidade com as regras de negocio de sistemas nacionais, aplicamos as seguintes estruturas em Regex atraves do modulo re:
+Para garantir que os dados estejam em conformidade com as regras de negocio de sistemas nacionais, apliquei as seguintes estruturas em Regex atraves do modulo re:
 
 *   E-mail (^[\w.-]+@[a-zA-Z\d.-]+\.[a-zA-Z]{2,}\$)
     *   ^ e \$: Garantem que o texto inteiro seja avaliado, impedindo e-mails validos colados no meio de textos invalidos.
