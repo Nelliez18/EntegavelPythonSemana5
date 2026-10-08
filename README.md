@@ -1,5 +1,5 @@
 Documento README.md: Justificativa das validações aplicadas, explicação das exceções tratadas, exemplos de entrada (arquivo lido) e saída (relatório gerado).
-```
+
 # Sistema de Analise e Higienizacao de Dados em Python
 
 Este projeto consiste em um sistema automatizado para leitura, tratamento e higienizacao de arquivos de dados no formato CSV, aplicando rotinas de validacao por meio de expressoes regulares (Regex) e blindagem contra falhas operacionais com tratamento de excecoes.
@@ -75,5 +75,4 @@ usuario-invalido.com,123.456,9999-9999,2024/12/31
 =================================================================
 
 [FIM DA OPERACAO]: Rotina de processamento encerrada de forma segura.
-```
 ```
